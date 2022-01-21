@@ -1,6 +1,6 @@
 package Day5;
 
-public class Student {
+public class DetailsStudent {
     String name;
     String dob;
     double phoneNumber;
