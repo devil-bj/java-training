@@ -11,7 +11,7 @@ public class EnumSwitch {
         LEGEND,
     }
     public static void main(String []args){
-       Categories cat =  Categories.LEGEND;
+     Categories cat =  Categories.LEGEND;
        switch (cat){
            case BEGINNER -> Logger.getGlobal().info("Beginner player:");
            case STARTER -> Logger.getGlobal().info("Level Second Player");

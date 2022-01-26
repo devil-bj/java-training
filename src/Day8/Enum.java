@@ -13,6 +13,7 @@ public class Enum {
         Logger.getGlobal().info("Category is:  \t" + cat);
     }
 
+
 }
 enum  Categories {
     STARTER,

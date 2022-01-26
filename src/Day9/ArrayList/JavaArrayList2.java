@@ -6,7 +6,7 @@ import java.util.Collections;
 
 public class JavaArrayList2 { // integer types of for and for each loop
     public static void main(String []args){
-        ArrayList <Integer>  number = new ArrayList<Integer>();
+        ArrayList <Integer>  number = new ArrayList<>();
         number.add(1);
         number.add(2);
         number.add(45);
