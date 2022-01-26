@@ -12,7 +12,7 @@ public class Ellipses {
 
 
     }
-    public static void add(int... values){
+    public static void add(int... values){ // ...(three dots represents the ellipses of Java PL)
         int temp = 0;
         for (int value:values) {
              temp +=value;
