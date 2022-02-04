@@ -1,7 +1,6 @@
 package Day11.HASH;
 
 import java.util.HashMap;
-import java.util.function.Supplier;
 import java.util.logging.Logger;
 
 public class HashInJava {
