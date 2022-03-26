@@ -20,8 +20,8 @@ public class JavaIteratorExample {
 
 //        Iterator<String> it = nameData.iterator();
 //        while(it.hasNext()){
-//            it.next();
-//            Logger.getGlobal().info(String.valueOf());
+//          String item=  it.next();
+//            Logger.getGlobal().info(String.valueOf(item));
 //        }
         Collection<Student> students  = new ArrayList<>();
 
