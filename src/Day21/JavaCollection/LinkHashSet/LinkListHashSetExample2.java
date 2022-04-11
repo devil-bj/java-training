@@ -1,4 +1,4 @@
-package JavaCollection.LinkHashSet;
+package Day21.JavaCollection.LinkHashSet;
 
 import java.util.Iterator;
 import java.util.LinkedHashSet;

@@ -1,4 +1,4 @@
-package JavaCollection.HashMap;
+package Day21.JavaCollection.HashMap;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -18,7 +18,7 @@ public class HashMap2 {
              ) {
             System.out.println(mp.getKey() +""+mp.getValue());
         }
-        // lets add another elements in the list. hashmap putIfAbsent() Method.
+        // let'gs add another elements in the list. hashmap putIfAbsent() Method.
         hashMap.putIfAbsent(106,"Krishna");
 
         for (Map.Entry m: hashMap.entrySet()

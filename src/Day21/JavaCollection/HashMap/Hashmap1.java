@@ -1,4 +1,4 @@
-package JavaCollection.HashMap;
+package Day21.JavaCollection.HashMap;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package JavaCollection.LinkListJava;
+package Day21.JavaCollection.LinkListJava;
 
 import java.util.Iterator;
 import java.util.LinkedList;

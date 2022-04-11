@@ -1,4 +1,4 @@
-package JavaCollection.TreeSetInJava;
+package Day21.JavaCollection.TreeSetInJava;
 
 
 import java.util.Iterator;

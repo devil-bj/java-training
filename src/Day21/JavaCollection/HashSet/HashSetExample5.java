@@ -1,4 +1,4 @@
-package JavaCollection.HashSet;
+package Day21.JavaCollection.HashSet;
 import java.util.HashSet;
 
 //Let's see a HashSet example where we are adding books to set and printing all the books.
